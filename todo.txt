@@ -1,0 +1,10 @@
+
+B -> Encontra fatores de risco de AVC
+A -> Complementa encontrado com referencias
+
+----------------------
+
+Todo:
+
+Conseguir dataset 
+Implementar a tree
