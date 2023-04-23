@@ -6,5 +6,11 @@ A -> Complementa encontrado com referencias
 
 Todo:
 
-Conseguir dataset 
-Implementar a tree
+Conseguir dataset / feito.
+
+----------------------
+projetar o classificador - dividir em subtarefas se complicado
+avaliar o classificador / usar função comentada.
+----------------------
+
+Implementar a tree **atual está errada**
