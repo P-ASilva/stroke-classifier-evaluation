@@ -35,23 +35,23 @@ Arquivo a rodar no IDE:
 
 Analizando os dados adquiridos no preditor de AVC, o valor com o relação mais alta com esse acidente vascular é a hipertensão, que é uma doença que afeta as artérias, seguido por ter um trabalho privado e estarem casados. Os dados encontrados estão abaixo:
 
-`hypertension` 1.9161797751759362
-`work_type_Private` 1.2220087468386893
-`work_type_Govt_job` 0.8501062047083867
-`ever_married_Yes` 0.7942305423397298
-`bmi` 0.04353848245863595
-`avg_glucose_level` 0.0032088682736495047
-`age` -0.023799024835772634
-`heart_disease` -0.03574279385007104
-`work_type_Never_worked` -0.10596010452077866
-`gender` -0.15203185531201022
-`smoking_status_smokes` -0.15463364674369248
-`Residence_type_Urban` -0.19160052444727962
-`smoking_status_formerly smoked` -0.3487340675519495
-`work_type_Self-employed` -0.43877985033056516
-`work_type_children` -0.8395988620444941
-`smoking_status_never smoked` -0.9365968419217553
-`smoking_status_Unknown` -1.2835729696956033
+* `hypertension` 1.9161797751759362
+* `work_type_Private` 1.2220087468386893
+* `work_type_Govt_job` 0.8501062047083867
+* `ever_married_Yes` 0.7942305423397298
+* `bmi` 0.04353848245863595
+* `avg_glucose_level` 0.0032088682736495047
+* `age` -0.023799024835772634
+* `heart_disease` -0.03574279385007104
+* `work_type_Never_worked` -0.10596010452077866
+* `gender` -0.15203185531201022
+* `smoking_status_smokes` -0.15463364674369248
+* `Residence_type_Urban` -0.19160052444727962
+* `smoking_status_formerly smoked` -0.3487340675519495
+* `work_type_Self-employed` -0.43877985033056516
+* `work_type_children` -0.8395988620444941
+* `smoking_status_never smoked` -0.9365968419217553
+* `smoking_status_Unknown` -1.2835729696956033
  
 ## Conclusões
 
