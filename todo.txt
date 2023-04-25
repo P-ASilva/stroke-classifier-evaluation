@@ -14,6 +14,7 @@ avaliar o classificador / usar função comentada.
 ----------------------
 
 Identificar fatores de risco/anti-risco de avcs segundo nosso classificador e analisar / comparar w e features
+pegar uma feature relevante e fazer pesquisa no readme sobre (correspondencia com a vida real)
 
 Implementar a tree **atual está errada**
 
