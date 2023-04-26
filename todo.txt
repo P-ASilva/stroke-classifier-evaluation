@@ -6,15 +6,5 @@ A -> Complementa encontrado com referencias
 
 Todo:
 
-Conseguir dataset / feito.
-
-----------------------
-projetar o classificador - dividir em subtarefas se complicado
-avaliar o classificador / usar função comentada.
-----------------------
-
-Identificar fatores de risco/anti-risco de avcs segundo nosso classificador e analisar / comparar w e features
-
-Implementar a tree **atual está errada**
-
-REGISTRAR TUDO ACIMA 
+- Implementar a tree **atual está errada**
+- Readme: Funcionamento do sistema preditor
