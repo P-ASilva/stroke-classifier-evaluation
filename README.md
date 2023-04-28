@@ -9,32 +9,13 @@ APS 6 - Algebra Linear e Teoria da Informação - 2023.1
 
 # Índice
 1. [Introdução](#introdução)
-2. [Como rodar](#como-rodar)
-2. [Projeto](#projeto)
-    1. [Funcionamento do sistema preditor](#funcionamento-do-sistema-preditor)
-    2. [Análise dos dados](#análise-dos-dados)
-    3. [Conclusões](#conclusões)
+2. [Análise dos dados](#análise-dos-dados)
+3. [Conclusões](#conclusões)
 4. [Bibliografia](#bibliografia)
 
 # Introdução
 
 Por meio de classificadores, é possível determinar resultados a partir de dados específicos. Este projeto possui o objetivo de avaliar um classificador de fatores de risco para o acidente vascular cerebral (AVC). Ou seja, qualquer fator que aumente o risco de um indivíduo ter uma emergência como essa impactará o resultado. Para isso, utilizaremos as bibliotecas sklearn e autograd em python para gerar os impactos de cada um dos fatores analisados.
-
-
-# Como rodar
-
-Requerimentos:
-- IDE (sua escolha)
-- Python
-- pip
-- numpy
-- sklearn
-
-Arquivo a rodar no IDE:
-- demo.py
-    - Necessário abrir o folder no explorer para acessar as funções
-
-# Projeto
 
 ## Análise dos dados
 
@@ -59,14 +40,6 @@ Analizando os dados adquiridos no preditor de AVC, o valor com o relação mais 
 * `smoking_status_Unknown` -1.2835729696956033
  
 ## Conclusões
-
-- Comparacao dados reais com predicoes
-
-- Divisao entre teste e train usando scikit-learn
-
-- Dados viram numericos, já que são categóricos
-
-- Medir acuracia pegando a quantidade de y^ e vendo se é igual a y, somando todas as vezes em que é igual, e dividindo pelo total de valores
 
 Com os dados obtidos, conseguimos comparar os nossos resultados com outras pesquisas sobre o AVC. O fator com relação mais alta é a hipertensão, que aparece como um dos fatores mais influenciais de aumentar o risco de um AVC em multiplas pesquisas, pois ambos são problemas que acontecem em artérias e veias. Seguidamente, as pessoas que trabalham (considerando somente trabalhos não autonomos) tem chances muito maiores de ter essa emergência, que de acordo com as pesquisas feitas há uma relação entre AVC e estresse, e relação entre estresse e o trabalho; isso então pode ser relacionado com outras pesquisas que encontraram relações entre trabalho e estresse. Adicionalmente, foi encontrada uma relação com AVC e a pessoa estar casada, o que pode ser atribuido ao estress novamente, mas não há dados em outras pequisas o suficiente para afirmar que realmente há uma relação, e poderia ser algo que aparece somente neste dataset.
 
