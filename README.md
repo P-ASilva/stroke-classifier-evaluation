@@ -27,18 +27,14 @@ Requerimentos:
 - IDE (sua escolha)
 - Python
 - pip
-    - numpy
-    - sklearn
+- numpy
+- sklearn
 
 Arquivo a rodar no IDE:
 - demo.py
     - Necessário abrir o folder no explorer para acessar as funções
 
 # Projeto
-
-## Funcionamento do sistema preditor 
-
-        t o d o
 
 ## Análise dos dados
 
