@@ -41,15 +41,15 @@ Analizando os dados adquiridos no preditor de AVC, o valor com o relação mais 
  
 ## Conclusões
 
-Com os dados obtidos, conseguimos comparar os nossos resultados com outras pesquisas sobre o AVC. O fator com relação mais alta é a hipertensão, que aparece como um dos fatores mais influenciais de aumentar o risco de um AVC em múltiplas pesquisas, pois ambos são problemas que acontecem em artérias e veias. Seguidamente, as pessoas que trabalham (considerando somente trabalhos não autonomos) tem chances muito maiores de ter essa emergência, que de acordo com as pesquisas feitas há uma relação entre AVC e estresse, e relação entre estresse e o trabalho; isso então pode ser relacionado com outras pesquisas que encontraram relações entre trabalho e estresse. Adicionalmente, foi encontrada uma relação com AVC e a pessoa estar casada, o que pode ser atribuido ao estress novamente, mas não há dados em outras pequisas o suficiente para afirmar que realmente há uma relação, e poderia ser algo que aparece somente neste dataset.
+Com os dados obtidos, conseguimos comparar os nossos resultados com outras pesquisas sobre o AVC e nossa arvore de decisões. O fator com relação mais alta é a hipertensão, que aparece como um dos fatores mais influenciais de aumentar o risco de um AVC em múltiplas pesquisas, pois ambos são problemas que acontecem em artérias e veias. Seguidamente, as pessoas que trabalham (considerando somente trabalhos não autonomos) tem chances muito maiores de ter essa emergência, que de acordo com as pesquisas feitas há uma relação entre AVC e estresse, e relação entre estresse e o trabalho; isso então pode ser relacionado com outras pesquisas que encontraram relações entre trabalho e estresse. Adicionalmente, foi encontrada uma relação com AVC e a pessoa estar casada, o que pode ser atribuido ao estress novamente, mas não há dados em outras pequisas o suficiente para afirmar que realmente há uma relação, e poderia ser algo que aparece somente neste dataset.
 
 Além dos maiores valores de relação, podemos perceber que houve uma classificação diferente com o fumo, apesar de ainda estar dentro do esperado. As pessoas que fumam não mostraram relação com AVC, mas aqueles que não fumam mostraram uma relação inversa, ou seja, não fumar faz com que suas chances de ter um AVC diminuem. Outros fatores, como ser criança, tambem mostraram uma forte relação inversa com o AVC.
 
 ## Análise da Árvore
 
-A árvore gerada pelo código confirma várias conclusões que foram tomadas. É possível perceber que o tipo de trabalho privado ou governamental aumentam a chance de um AVC, da mesma forma que a hipertensão, além do nível médio de glicose. Tudo parece bater com a figura, o que confirma sua credibilidade.
+A árvore gerada pelo código confirma mostra, de cima para baixo, os fatores de mais relevância para se ter um AVC. É possível perceber que o tipo de trabalho, da mesma forma que a hipertensão e altos niveis de glicose, aumentam a chance de um AVC. Os dados apresentados na arvore, apesar de não terem a mesma ordenação que nosso classificador, apontam para a relevância dos fatores que encontramos atráves da regresão linear.
 
-ALGUEM BOTA UMA PRINT DA ARVORE AQUI PFV, EH O output.png NO REPO
+![Alt Text](output.png)
 
 
 # Bibliografia 
