@@ -47,7 +47,7 @@ Além dos maiores valores de relação, podemos perceber que houve uma classific
 
 ## Análise da Árvore
 
-A árvore gerada pelo código confirma mostra, de cima para baixo, os fatores de mais relevância para se ter um AVC. É possível perceber que o tipo de trabalho, da mesma forma que a hipertensão e altos niveis de glicose, aumentam a chance de um AVC. Os dados apresentados na arvore, apesar de não terem a mesma ordenação que nosso classificador, apontam para a relevância dos fatores que encontramos atráves da regresão linear.
+A árvore gerada pelo código confirma mostra, de cima para baixo, os fatores de mais relevância para se ter um AVC. É possível perceber que o tipo de trabalho, da mesma forma que a hipertensão e altos níveis de glicose, aumentam a chance de um AVC. Os dados apresentados na árvore, apesar de não terem a mesma ordenação que nosso classificador, apontam para a relevância dos fatores que encontramos atráves da regresão linear.
 
 ![Alt Text](output.png)
 
